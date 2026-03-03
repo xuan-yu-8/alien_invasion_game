@@ -91,7 +91,7 @@ alien_invasion/
 
 ---
 
-*Made with 💻 and ☕ by [你的名字]*
+*Made with 💻 and ☕ by 轩*
 ```
 
 这个 README 包含了：
@@ -101,4 +101,5 @@ alien_invasion/
 4. **开发阶段清单**（你可以随着进度更新打勾）
 5. **精确的环境版本**（Python 3.9.9 + Pygame 2.6.1）
 6. **预留的项目结构**（包含后续章节的文件，你可以边做边填）
+
 
